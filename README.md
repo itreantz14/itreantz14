@@ -1,4 +1,4 @@
-<h1 align="left">Magandang Araw !</h1>
+<h1 align="left">Ya ho !</h1>
 
 ###
 
